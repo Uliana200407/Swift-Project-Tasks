@@ -3,5 +3,5 @@
 
 ## Content details📃
 * Log in - a login form with a username and password text field and a login button. When the user clicks the login button, checks if the username and password are correct and then switches to the View;
-* Drop Tac Toe - the game - analogy to tic tac toe with AI;
+* Drop Tac Toe - the game, analogy to tic tac toe with AI;
 * Calculator - a calculator app that performs basic arithmetic operations (addition, subtraction, multiplication, and division);
